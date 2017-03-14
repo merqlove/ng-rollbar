@@ -50,7 +50,7 @@ module.exports = function(grunt) {
       },
       my_target: {
         files: {
-          'ng-rollbar.min.js': ['ng-rollbar.min.js']
+          'ng-rollbar.min.js': ['ng-rollbar.js']
         }
       }
     },
